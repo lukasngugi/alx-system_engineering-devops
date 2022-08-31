@@ -1,4 +1,10 @@
 #!/bin/bash
 echo -e '0 string SCHOOL school data\n!:mime School' >> school.mgc
+
+wc -l school.mgc
+
+file -C -m school.mgc
+0 string SCHOOL school data
+!:mime School
 0 string SCHOOL school data
 !:mime School
