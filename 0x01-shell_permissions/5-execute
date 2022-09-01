@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd -n hello execute
+chmod 100 hello
